@@ -62,6 +62,9 @@
   color: #444343;
   margin-top: 8px;
 }
+i{
+  color: #16D887;
+}
 /* My plan Section Styles */
 .my-plan {
   margin: 0 230px 130px 230px;
