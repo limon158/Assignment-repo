@@ -77,12 +77,21 @@
   font-size: 30px;
   color: #151414;
 }
+.content-description {
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+  margin-top: 16px;
+}
 .my-plan-banner {
-  padding: 60px;
+  padding: 60px 617px 60px 64px;
   text-align: left;
+  background-image: url(images/gradient1.png), url(images/watch.png);
+  margin-top: 130px;
 }
 .my-plan-banner-title {
   font-weight: 700;
   font-size: 40px;
-  /* color: #ffffff; */
+  color: #ffffff;
+  margin-bottom: 23px;
 }
