@@ -40,8 +40,8 @@
   display: flex;
   gap: 80px;
 }
-.about-content{
-    padding: 239px 0 84px 0;
+.about-content {
+  padding: 239px 0 84px 0;
 }
 .section-title {
   font-weight: 700;
@@ -61,4 +61,28 @@
   font-size: 16px;
   color: #444343;
   margin-top: 8px;
+}
+/* My plan Section Styles */
+.my-plan {
+  margin: 0 230px 130px 230px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  gap: 86px;
+  margin-top: 50px;
+}
+.content-title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+}
+.my-plan-banner {
+  padding: 60px;
+  text-align: left;
+}
+.my-plan-banner-title {
+  font-weight: 700;
+  font-size: 40px;
+  /* color: #ffffff; */
 }
