@@ -95,3 +95,50 @@
   color: #ffffff;
   margin-bottom: 23px;
 }
+/* Footer section style */
+.footer {
+  display: flex;
+  gap: 200px;
+  padding: 130px 230px;
+  background-color: #151414;
+}
+.title {
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+}
+.description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 16px;
+  margin-bottom: 14px;
+}
+.contacts {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.icons a {
+  text-decoration: none;
+  margin-right: 17px;
+}
+.form-title {
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 31px;
+}
+input {
+  width: 325px;
+  padding: 21px;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.footer .btn-primary {
+  background: #005fac;
+  border-radius: 8px;
+  color: #ffffff;
+}
