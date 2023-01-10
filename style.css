@@ -32,3 +32,33 @@
   border-radius: 5px;
   padding: 20px;
 }
+/* About Section Styles */
+.about {
+  margin: 130px 322px 130px 206px;
+}
+.contents {
+  display: flex;
+  gap: 80px;
+}
+.about-content{
+    padding: 239px 0 84px 0;
+}
+.section-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+}
+.section-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+.about-list li {
+  list-style: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-top: 8px;
+}
