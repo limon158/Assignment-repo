@@ -69,7 +69,7 @@
 }
 .container {
   display: flex;
-  gap: 86px;
+  gap: 50px;
   margin-top: 50px;
 }
 .content-title {
